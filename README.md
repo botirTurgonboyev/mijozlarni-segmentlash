@@ -63,4 +63,4 @@ Python, pandas, NumPy, scikit-learn, XGBoost, matplotlib, seaborn.
 
 ## Natijalar
 
-Metrikalar jadvali, grafiklar va segmentlar tavsifi har bir notebook'ning tegishli bo'limlarida chiqadi. Notebook'ni ishga tushirib, natijalar bilan saqlasangiz, ular GitHub'da ham ko'rinadi.
+Metrikalar jadvali, grafiklar va segmentlar tavsifi har bir notebook'ning tegishli bo'limlarida chiqadi.
