@@ -1,0 +1,1 @@
+# mijozlarni-segmentlash
